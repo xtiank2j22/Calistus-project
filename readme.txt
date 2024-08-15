@@ -1,12 +1,6 @@
-…or create a new repository on the command line
-echo "# Calistus-project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/xtiank2j22/Calistus-project.git
-git push -u origin main
-…or push an existing repository from the command line
-git remote add origin https://github.com/xtiank2j22/Calistus-project.git
-git branch -M main
-git push -u origin main
+Thanks for downloading this template!
+
+Template Name: UpConstruction
+Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
