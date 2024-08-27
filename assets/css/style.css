@@ -1,13 +1,32 @@
-.text-sm{
-    font-size: 15px !important;
+.text-sm {
+  font-size: 15px !important;
 }
-.readmore-in{
-    display: none !important;
+.readmore-in {
+  display: none !important;
 }
-.logo-in img{
-    height: 8cap !important;
-    width: auto !important;
+.logo-in img {
+  height: 8cap !important;
+  width: auto !important;
 }
-.text-navyblue{
-    color: #062470 !important;
+.text-navyblue {
+  color: #062470 !important;
+}
+.icon-b {
+  color: #00af50 !important;
+  background-color: rgb(240, 244, 242) !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-size: 30px !important;
+  border-radius: 4px !important;
+  box-shadow: 0px 30px 30px rgba(0, 0, 0, 0.1);
+  transition: 0.3s !important;
+  padding: 10px !important;
+  width: 56px;
+  height: 56px;
+  border-radius: 4px;
+  line-height: 10;
+  display: flex;
+}
+.text-light-green {
+  color: #00af50 !important;
 }
