@@ -30,3 +30,7 @@
 .text-light-green {
   color: #00af50 !important;
 }
+.footer-logo img{
+  height: 150px !important;
+  width: auto !important;
+}

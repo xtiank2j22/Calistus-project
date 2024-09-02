@@ -7,75 +7,11 @@
   <title>Blog Details</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
-
-  <!-- Favicons -->
-  <link href="assets/img/logo/logo2.jpeg" rel="icon">
-  <link href="assets/img/logo/logo2.jpeg" rel="apple-touch-icon">
-
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com" rel="preconnect">
-  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
-  <link href="assets/css/style.css" rel="stylesheet">
+  <?php include_once 'includes/css-link.php' ?>
 </head>
-
 <body class="blog-details-page">
-
-  <header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
-
-      <a href="index.html" class="logo-in d-flex align-items-center">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo/logo3.png" alt="">
-        <h6 class="mt-5 text-light-green">DONCASSA TECHNOLOGIES LTD</h6>
-     </a>
-     <nav id="navmenu" class="navmenu">
-        <ul>
-           <li><a href="index.html" class="active">Home</a></li>
-           <li><a href="about.html">About</a></li>
-           <li><a href="services.html">Services</a></li>
-           <li><a href="projects.html">Projects</a></li>
-           <li><a href="blog.html">Blog</a></li>
-           <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i
-                    class="bi bi-chevron-down toggle-dropdown"></i></a>
-              <ul>
-                 <li><a href="#">Dropdown 1</a></li>
-                 <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i
-                          class="bi bi-chevron-down toggle-dropdown"></i></a>
-                    <ul>
-                       <li><a href="#">Deep Dropdown 1</a></li>
-                       <li><a href="#">Deep Dropdown 2</a></li>
-                       <li><a href="#">Deep Dropdown 3</a></li>
-                       <li><a href="#">Deep Dropdown 4</a></li>
-                       <li><a href="#">Deep Dropdown 5</a></li>
-                    </ul>
-                 </li>
-                 <li><a href="#">Dropdown 2</a></li>
-                 <li><a href="#">Dropdown 3</a></li>
-                 <li><a href="#">Dropdown 4</a></li>
-              </ul>
-           </li> -->
-           <li><a href="contact.html">Contact</a></li>
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-     </nav>
-
-    </div>
-  </header>
-
+<?php include_once 'includes/header.php' ?>
   <main class="main">
-
     <!-- Page Title -->
     <div class="page-title dark-background" style="background-image: url(assets/img/page-title-bg.jpg);">
       <div class="container position-relative">
@@ -88,24 +24,17 @@
         </nav>
       </div>
     </div><!-- End Page Title -->
-
     <div class="container">
       <div class="row">
-
         <div class="col-lg-8">
-
           <!-- Blog Details Section -->
           <section id="blog-details" class="blog-details section">
             <div class="container">
-
               <article class="article">
-
                 <div class="post-img">
                   <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
                 </div>
-
                 <h2 class="title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
-
                 <div class="meta-top">
                   <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.html">John Doe</a></li>
@@ -119,23 +48,19 @@
                     Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
                     Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
                   </p>
-
                   <p>
                     Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
                   </p>
-
                   <blockquote>
                     <p>
                       Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
                     </p>
                   </blockquote>
-
                   <p>
                     Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
                     Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
                     Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
                   </p>
-
                   <h3>Et quae iure vel ut odit alias.</h3>
                   <p>
                     Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
@@ -152,15 +77,12 @@
                   <p>
                     Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
                   </p>
-
                 </div><!-- End post content -->
-
                 <div class="meta-bottom">
                   <i class="bi bi-folder"></i>
                   <ul class="cats">
                     <li><a href="#">Business</a></li>
                   </ul>
-
                   <i class="bi bi-tags"></i>
                   <ul class="tags">
                     <li><a href="#">Creative</a></li>
@@ -168,15 +90,11 @@
                     <li><a href="#">Marketing</a></li>
                   </ul>
                 </div><!-- End meta bottom -->
-
               </article>
-
             </div>
           </section><!-- /Blog Details Section -->
-
           <!-- Blog Author Section -->
           <section id="blog-author" class="blog-author section">
-
             <div class="container">
               <div class="author-container d-flex align-items-center">
                 <img src="assets/img/blog/blog-author.jpg" class="rounded-circle flex-shrink-0" alt="">
@@ -193,16 +111,11 @@
                 </div>
               </div>
             </div>
-
           </section><!-- /Blog Author Section -->
-
           <!-- Blog Comments Section -->
           <section id="blog-comments" class="blog-comments section">
-
             <div class="container">
-
               <h4 class="comments-count">8 Comments</h4>
-
               <div id="comment-1" class="comment">
                 <div class="d-flex">
                   <div class="comment-img"><img src="assets/img/blog/comments-1.jpg" alt=""></div>
@@ -216,7 +129,6 @@
                   </div>
                 </div>
               </div><!-- End comment #1 -->
-
               <div id="comment-2" class="comment">
                 <div class="d-flex">
                   <div class="comment-img"><img src="assets/img/blog/comments-2.jpg" alt=""></div>
@@ -228,7 +140,6 @@
                     </p>
                   </div>
                 </div>
-
                 <div id="comment-reply-1" class="comment comment-reply">
                   <div class="d-flex">
                     <div class="comment-img"><img src="assets/img/blog/comments-3.jpg" alt=""></div>
@@ -237,14 +148,11 @@
                       <time datetime="2020-01-01">01 Jan,2022</time>
                       <p>
                         Enim ipsa eum fugiat fuga repellat. Commodi quo quo dicta. Est ullam aspernatur ut vitae quia mollitia id non. Qui ad quas nostrum rerum sed necessitatibus aut est. Eum officiis sed repellat maxime vero nisi natus. Amet nesciunt nesciunt qui illum omnis est et dolor recusandae.
-
                         Recusandae sit ad aut impedit et. Ipsa labore dolor impedit et natus in porro aut. Magnam qui cum. Illo similique occaecati nihil modi eligendi. Pariatur distinctio labore omnis incidunt et illum. Expedita et dignissimos distinctio laborum minima fugiat.
-
                         Libero corporis qui. Nam illo odio beatae enim ducimus. Harum reiciendis error dolorum non autem quisquam vero rerum neque.
                       </p>
                     </div>
                   </div>
-
                   <div id="comment-reply-2" class="comment comment-reply">
                     <div class="d-flex">
                       <div class="comment-img"><img src="assets/img/blog/comments-4.jpg" alt=""></div>
@@ -256,13 +164,9 @@
                         </p>
                       </div>
                     </div>
-
                   </div><!-- End comment reply #2-->
-
                 </div><!-- End comment reply #1-->
-
               </div><!-- End comment #2-->
-
               <div id="comment-3" class="comment">
                 <div class="d-flex">
                   <div class="comment-img"><img src="assets/img/blog/comments-5.jpg" alt=""></div>
@@ -275,9 +179,7 @@
                     </p>
                   </div>
                 </div>
-
               </div><!-- End comment #3 -->
-
               <div id="comment-4" class="comment">
                 <div class="d-flex">
                   <div class="comment-img"><img src="assets/img/blog/comments-6.jpg" alt=""></div>
@@ -289,19 +191,13 @@
                     </p>
                   </div>
                 </div>
-
               </div><!-- End comment #4 -->
-
             </div>
-
           </section><!-- /Blog Comments Section -->
-
           <!-- Comment Form Section -->
           <section id="comment-form" class="comment-form section">
             <div class="container">
-
               <form action="">
-
                 <h4>Post Comment</h4>
                 <p>Your email address will not be published. Required fields are marked * </p>
                 <div class="row">
@@ -322,36 +218,25 @@
                     <textarea name="comment" class="form-control" placeholder="Your Comment*"></textarea>
                   </div>
                 </div>
-
                 <div class="text-center">
                   <button type="submit" class="btn btn-primary">Post Comment</button>
                 </div>
-
               </form>
-
             </div>
           </section><!-- /Comment Form Section -->
-
         </div>
-
         <div class="col-lg-4 sidebar">
-
           <div class="widgets-container">
-
             <!-- Search Widget -->
             <div class="search-widget widget-item">
-
               <h3 class="widget-title">Search</h3>
               <form action="">
                 <input type="text">
                 <button type="submit" title="Search"><i class="bi bi-search"></i></button>
               </form>
-
             </div><!--/Search Widget -->
-
             <!-- Categories Widget -->
             <div class="categories-widget widget-item">
-
               <h3 class="widget-title">Categories</h3>
               <ul class="mt-3">
                 <li><a href="#">General <span>(25)</span></a></li>
@@ -361,14 +246,10 @@
                 <li><a href="#">Creative <span>(8)</span></a></li>
                 <li><a href="#">Educaion <span>(14)</span></a></li>
               </ul>
-
             </div><!--/Categories Widget -->
-
             <!-- Recent Posts Widget -->
             <div class="recent-posts-widget widget-item">
-
               <h3 class="widget-title">Recent Posts</h3>
-
               <div class="post-item">
                 <img src="assets/img/blog/blog-recent-1.jpg" alt="" class="flex-shrink-0">
                 <div>
@@ -376,7 +257,6 @@
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
-
               <div class="post-item">
                 <img src="assets/img/blog/blog-recent-2.jpg" alt="" class="flex-shrink-0">
                 <div>
@@ -384,7 +264,6 @@
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
-
               <div class="post-item">
                 <img src="assets/img/blog/blog-recent-3.jpg" alt="" class="flex-shrink-0">
                 <div>
@@ -392,7 +271,6 @@
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
-
               <div class="post-item">
                 <img src="assets/img/blog/blog-recent-4.jpg" alt="" class="flex-shrink-0">
                 <div>
@@ -400,7 +278,6 @@
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
-
               <div class="post-item">
                 <img src="assets/img/blog/blog-recent-5.jpg" alt="" class="flex-shrink-0">
                 <div>
@@ -408,12 +285,9 @@
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
               </div><!-- End recent post item-->
-
             </div><!--/Recent Posts Widget -->
-
             <!-- Tags Widget -->
             <div class="tags-widget widget-item">
-
               <h3 class="widget-title">Tags</h3>
               <ul>
                 <li><a href="#">App</a></li>
@@ -428,98 +302,12 @@
                 <li><a href="#">Tips</a></li>
                 <li><a href="#">Marketing</a></li>
               </ul>
-
             </div><!--/Tags Widget -->
-
           </div>
-
         </div>
-
       </div>
     </div>
-
   </main>
-  <footer id="footer" class="footer bg-dark">
-    <div class="container footer-top">
-       <div class="row gy-4">
-          <div class="col-lg-4 col-md-6 footer-about">
-             <a href="index.html" class="logo d-flex align-items-center">
-                <img src="assets/img/logo/logo3.png" alt="">
-                <h4 class="mt-3">DONCASSA TECHNOLOGIES</h4>
-             </a>
-             <div class="footer-contact">
-                <p>A108 Adam Street</p>
-                <p>New York, NY 535022</p>
-                <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-                <p><strong>Email:</strong> <span>info@example.com</span></p>
-             </div>
-             <div class="social-links d-flex mt-4">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-             </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-             <h4>Useful Links</h4>
-             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About us</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Terms of service</a></li>
-                <li><a href="#">Privacy policy</a></li>
-             </ul>
-          </div>
-
-          <div class="col-md-6 col-12 footer-links">
-             <form action="forms/quote.php" method="post" class="php-email-form">
-                <h6>Feel free to fill out our contact form</h6>
-                <div class="row gy-3">
-                   <div class="col-12 ">
-                      <input type="email" class="form-control" name="email" placeholder="Email" required="">
-                   </div>
-                   <div class="col-12">
-                      <textarea class="form-control" name="message" rows="3" placeholder="Message"
-                         required=""></textarea>
-                   </div>
-                   <div class="col-12">
-                      <div class="loading">Loading</div>
-                      <div class="error-message"></div>
-                      <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
-                      <button type="submit" class="btn btn-success">Contact Us Today!</button>
-                   </div>
-
-                </div>
-             </form> 
-          </div>
-       </div>
-    </div>
-    <div class="container copyright text-center mt-4">
-       <p>2024 © <span>Copyright</span> <strong class="px-1 sitename"><a href="" >Doncassa Technologies LTD</a></strong> <span>All Rights
-             Reserved</span></p>
-    </div>
- </footer>
-
-  <!-- Scroll Top -->
-  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <!-- Preloader -->
-  <div id="preloader"></div>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-
-  <!-- Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  <?php include_once 'includes/footer.php' ?>
 </body>
-
 </html>
