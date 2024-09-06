@@ -13,9 +13,9 @@
             <h4 class="text-light-green">Company Address</h4>
             <ul>
                <li><span class="fa fa-house text-light-green pr-2"></span> <a>|</a>
-               Adam Street New York, NY 535022</li>
-               <li><span class="fa fa-phone text-light-green pr-2"></span><a>|</a> +234 8068383698</li>
-               <li><span class="fa fa-envelope pr-2 text-light-green"></span><a>|</a> info@example.com</li>
+                  Suite 5, Nwafia Plaza KM 6 East/West Road Opposite Omega House, P/H River State.</li>
+               <li><span class="fa fa-phone text-light-green pr-2"></span><a>|</a> + 234 9(0) 3274 6643</li>
+               <li><span class="fa fa-envelope pr-2 text-light-green"></span><a>|</a> doncassatechnologyltd@gmail.com</li>
             </ul>
          </div>
          <div class="col-lg-2 col-md-3 footer-links">
@@ -27,10 +27,10 @@
                <li><a href="#" class="text-white">Terms of service</a></li>
             </ul>
          </div>
-         
+
          <div class="col-md-3 col-12">
-         <h4  class="text-light-green">Social Links</h4>
-         <div class="social-links d-flex mt-4">
+            <h4 class="text-light-green">Social Links</h4>
+            <div class="social-links d-flex mt-4">
                <a href=""><i class="bi bi-twitter-x"></i></a>
                <a href=""><i class="bi bi-facebook"></i></a>
                <a href=""><i class="bi bi-instagram"></i></a>

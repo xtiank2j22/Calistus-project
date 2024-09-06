@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Projects</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
-<!-- the css links are here -->
+  <!-- the css links are here -->
   <?php include_once 'includes/css-link.php' ?>
 </head>
+
 <body class="projects-page">
   <!-- the navbar links are here -->
-<?php include_once 'includes/header.php' ?>
+  <?php include_once 'includes/header.php' ?>
   <main class="main">
     <!-- Page Title -->
     <div class="page-title dark-background" style="background-image: url(assets/img/page-title-bg.jpg);">
@@ -26,169 +28,99 @@
       </div>
     </div><!-- End Page Title -->
     <!-- Projects Section -->
-    <section id="projects" class="projects section">
+    <section id="blog-posts" class="blog-posts section get-started section">
+
       <div class="container">
-        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-remodeling">Remodeling</li>
-            <li data-filter=".filter-construction">Construction</li>
-            <li data-filter=".filter-repairs">Repairs</li>
-            <li data-filter=".filter-design">Design</li>
-          </ul><!-- End Portfolio Filters -->
-          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-3.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-3.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-          </div><!-- End Portfolio Container -->
-
+        <div class="content">
+          <h3>CNG Gas Project</h3>
         </div>
-
+        <div class="row gy-4">
+          <div class="col-lg-4">
+            <article class="position-relative h-100">
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/projects/lpg-ngv-gas-tanks-are-installed-car-2-fuel-system_152904-2302.avif" class="img-fluid height-350" alt="" >
+              </div>
+              <div class="post-content d-flex flex-column">
+                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <!-- <p>
+                  Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
+                </p> -->
+                <hr>
+                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              </div>
+            </article>
+          </div><!-- End post list item -->
+          <div class="col-lg-4">
+            <article class="position-relative h-100">
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/projects/Compressed-Natural-CNG-Gas-Dispenser-Filling-Stations-Application-in-Mother-Station-CNG-Compressor.webp" class="img-fluid height-350" alt="">
+              </div>
+              <div class="post-content d-flex flex-column">
+                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <hr>
+                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              </div>
+            </article>
+          </div><!-- End post list item -->
+          <div class="col-lg-4">
+            <article class="position-relative h-100">
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/projects/generator.jpg" class="img-fluid height-350" alt="" >
+              </div>
+              <div class="post-content d-flex flex-column">
+                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <hr>
+                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              </div>
+            </article>
+          </div><!-- End post list item -->
+          <div class="content">
+          <h3>Solar Installation or Maintenance Project</h3>
+        </div>
+        <div class="col-lg-4">
+            <article class="position-relative h-100">
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/projects/1674469683899.png" class="img-fluid height-350" alt="" >
+              </div>
+              <div class="post-content d-flex flex-column">
+                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <!-- <p>
+                  Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
+                </p> -->
+                <hr>
+                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              </div>
+            </article>
+          </div><!-- End post list item -->
+          <div class="col-lg-4">
+            <article class="position-relative h-100">
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/projects/house-with-solar-panels-roof_858577-281.webp" class="img-fluid height-350" alt="">
+              </div>
+              <div class="post-content d-flex flex-column">
+                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <hr>
+                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              </div>
+            </article>
+          </div><!-- End post list item -->
+          <div class="col-lg-4">
+            <article class="position-relative h-100">
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/projects/luxury-modern-home-with-perc-solar.jpg" class="img-fluid height-350" alt="" >
+              </div>
+              <div class="post-content d-flex flex-column">
+                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <hr>
+                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              </div>
+            </article>
+          </div><!-- End post list item -->
+        </div>
       </div>
-
     </section><!-- /Projects Section -->
   </main>
   <?php include_once 'includes/footer.php' ?>
 </body>
+
 </html>

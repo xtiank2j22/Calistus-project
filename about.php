@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>About - Us</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
-<!-- the link section -->
+  <!-- the link section -->
   <?php include_once 'includes/css-link.php' ?>
 </head>
+
 <body class="about-page">
-<!-- the header section -->
-<?php include_once 'includes/header.php' ?>
+  <!-- the header section -->
+  <?php include_once 'includes/header.php' ?>
   <main class="main">
     <!-- Page Title -->
     <div class="page-title dark-background" style="background-image: url(assets/img/page-title-bg.jpg);">
@@ -27,37 +29,25 @@
     </div><!-- End Page Title -->
     <!-- About Section -->
     <section id="about" class="about section">
-
       <div class="container">
-
         <div class="row position-relative">
-
-          <div class="col-lg-7 about-img" data-aos="zoom-out" data-aos-delay="200"><img src="assets/img/about.jpg"></div>
-
+          <div class="col-lg-7 about-img" data-aos="zoom-out" data-aos-delay="200">
+            <img src="assets/img/about.jpg">
+          </div>
           <div class="col-lg-7" data-aos="fade-up" data-aos-delay="100">
-            <h2 class="inner-title">Consequatur eius et magnam</h2>
+            <h2 class="inner-title">About Our Company</h2>
             <div class="our-story">
-              <h4>Est 1988</h4>
               <h3>Our Story</h3>
-              <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
-              <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-              </ul>
-              <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
-
+              <p class="justify-text-in">DONCASSA TECHNOLOGIES LIMITED is a privately owned indigenous company, focused on providing Engineering, Procurement and Construction service to the downstream Natural Gas industry in Nigeria. We adhere to the highest standards of professionalism and strive to exceed the expectations of our clients through integrity, adherence to strict safety culture and delivery of high quality service.</p>
+              <p class="justify-text-in">We offer personalized contracting models which result in reduced lead time, improved customer experience, high quality products and services, and reduced cost. We maintain strategic partnership with critical stakeholders in the Natural Gas business ecosystem and this helps us to guarantee the best level of service delivery to our clients. We operate with global outlook and our services are carried out according to international standards.</p>
               <div class="watch-video d-flex align-items-center position-relative">
-                <i class="bi bi-play-circle"></i>
-                <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox stretched-link">Watch Video</a>
+                <i class="bi bi-arrow-right-circle-fill"></i>
+                <a href="about.php" class="glightbox stretched-link">Learn More</a>
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
-
     </section><!-- /About Section -->
     <!-- Stats Counter Section -->
     <section id="stats-counter" class="stats-counter section">
@@ -484,4 +474,5 @@
   </main>
   <?php include_once 'includes/footer.php' ?>
 </body>
+
 </html>
