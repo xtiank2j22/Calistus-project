@@ -9,79 +9,79 @@
    <?php include_once 'includes/css-link.php' ?>
 </head>
 <body class="index-page">
-<!-- the header section -->
- <?php include_once 'includes/header.php' ?>
+   <!-- the header section -->
+   <?php include_once 'includes/header.php' ?>
    <main class="main">
       <!-- Hero Section -->
       <?php include_once 'includes/slider.php' ?>
-     <!-- /Hero Section -->
-       <!-- Alt Services Section -->
-       <section id="alt-services" class="alt-services section">
+      <!-- /Hero Section -->
+      <!-- Alt Services Section -->
+      <section id="alt-services" class="alt-services section">
          <div class="container">
             <div class="text-center py-5">
                <h2>Our Features</h2>
-                  <h6>Esse voluptas cumque vel exercitationem. <br>Reiciendis est hic accusamus. Non ipsam et sed minima<br>
-                     temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</h6>
+               <h6>Esse voluptas cumque vel exercitationem. <br>Reiciendis est hic accusamus. Non ipsam et sed minima<br>
+                  temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</h6>
             </div>
-            <div class="row justify-content-md-center gy-4">                  
-                  <div class="col-lg-4 col-12 text-center " data-aos="fade-up" data-aos-delay="300">
-                     <div class="d-flex justify-content-center">
-                        <i class="bi bi-easel text-center icon-b"></i>
-                     </div>
-                     <div class="mt-2">
-                        <h4><a href="#" class="text-dark">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-                           cupiditate non provident</p>
-                     </div>
-                  </div><!-- End Icon Box -->
-                  <div class="col-lg-4 col-12 text-center " data-aos="fade-up" data-aos-delay="300">
-                     <div class="d-flex justify-content-center">
-                        <i class="bi bi-easel text-center icon-b"></i>
-                     </div>
-                     <div class="mt-2">
-                        <h4><a href="#" class="text-dark">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-                           cupiditate non provident</p>
-                     </div>
-                  </div><!-- End Icon Box -->
-                  <div class="col-lg-4 col-12 text-center " data-aos="fade-up" data-aos-delay="300">
-                     <div class="d-flex justify-content-center">
-                        <i class="bi bi-easel text-center icon-b"></i>
-                     </div>
-                     <div class="mt-2">
-                        <h4><a href="#" class="text-dark">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-                           cupiditate non provident</p>
-                     </div>
-                  </div><!-- End Icon Box -->
+            <div class="row justify-content-md-center gy-4">
+               <div class="col-lg-4 col-12 text-center " data-aos="fade-up" data-aos-delay="300">
+                  <div class="d-flex justify-content-center">
+                     <i class="bi bi-easel text-center icon-b"></i>
+                  </div>
+                  <div class="mt-2">
+                     <h4><a href="#" class="text-dark">Lorem Ipsum</a></h4>
+                     <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
+                        cupiditate non provident</p>
+                  </div>
+               </div><!-- End Icon Box -->
+               <div class="col-lg-4 col-12 text-center " data-aos="fade-up" data-aos-delay="300">
+                  <div class="d-flex justify-content-center">
+                     <i class="bi bi-easel text-center icon-b"></i>
+                  </div>
+                  <div class="mt-2">
+                     <h4><a href="#" class="text-dark">Lorem Ipsum</a></h4>
+                     <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
+                        cupiditate non provident</p>
+                  </div>
+               </div><!-- End Icon Box -->
+               <div class="col-lg-4 col-12 text-center " data-aos="fade-up" data-aos-delay="300">
+                  <div class="d-flex justify-content-center">
+                     <i class="bi bi-easel text-center icon-b"></i>
+                  </div>
+                  <div class="mt-2">
+                     <h4><a href="#" class="text-dark">Lorem Ipsum</a></h4>
+                     <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
+                        cupiditate non provident</p>
+                  </div>
+               </div><!-- End Icon Box -->
 
             </div>
 
          </div>
 
       </section><!-- /Alt Services Section -->
-     <!-- Get Started Section -->
-     <section id="get-started" class="get-started section">
-      <div class="container">
-         <div class="row justify-content-between gy-4">
-            <div class="col-md-6 col-12" data-aos="zoom-out" data-aos-delay="100">
-               <div class="content">
-                  <h3>WHAT WE DO </h3>
-                  <p class="text-justify">Our core competence is the delivery of compressed natural gas technologies. We have a
-                     long-standing experience with natural gas system installation and maintenance. We install
-                     natural gas compressors and pressure-reducing and metering stations; we set up natural gas
-                     generators and also convert diesel and petrol vehicles to natural gas vehicles, all at
-                     competitive prices to help our clients gain energy independence whilst also reducing the cost of
-                     power generation.
-                  </p>
+      <!-- Get Started Section -->
+      <section id="get-started" class="get-started section">
+         <div class="container">
+            <div class="row justify-content-between gy-4">
+               <div class="col-md-6 col-12" data-aos="zoom-out" data-aos-delay="100">
+                  <div class="content">
+                     <h3>WHAT WE DO </h3>
+                     <p class="text-justify">Our core competence is the delivery of compressed natural gas technologies. We have a
+                        long-standing experience with natural gas system installation and maintenance. We install
+                        natural gas compressors and pressure-reducing and metering stations; we set up natural gas
+                        generators and also convert diesel and petrol vehicles to natural gas vehicles, all at
+                        competitive prices to help our clients gain energy independence whilst also reducing the cost of
+                        power generation.
+                     </p>
+                  </div>
+               </div>
+               <div class="col-md-6 col-12" data-aos="zoom-out" data-aos-delay="200">
+                  <img src="assets/img/features-4.jpg" alt="" height="400px;" width="auto;">
                </div>
             </div>
-            <div class="col-md-6 col-12" data-aos="zoom-out" data-aos-delay="200">
-               <img src="assets/img/features-4.jpg" alt="" height="400px;" width="auto;">
-            </div>
          </div>
-      </div>
-    </section>
+      </section>
       <!-- Constructions Section -->
       <section id="constructions" class="constructions section">
          <!-- Section Title -->
@@ -116,10 +116,10 @@
                            <div class="card-body">
                               <h4 class="card-title"> Gas Generator Installation</h4>
                               <p>We install and maintain CNG gas-powered generators that provide efficient, cost-effective, and environmentally friendly electricity for homes, businesses, and industries. Our expert team <span class="readmore-in">ensures seamless integration and optimal performance, guaranteeing an uninterrupted power supply when you need it most. We offer:
-                                 . Innovative CNG power generator solutions tailored to your specific needs,
-                                 . Expert guidance on choosing the right CNG power generator system for your application,
-                                 . Comprehensive maintenance and support services for long-term reliability.
-                              </span></p>
+                                    . Innovative CNG power generator solutions tailored to your specific needs,
+                                    . Expert guidance on choosing the right CNG power generator system for your application,
+                                    . Comprehensive maintenance and support services for long-term reliability.
+                                 </span></p>
                               <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
                            </div>
                         </div>
@@ -248,8 +248,9 @@
          </div>
       </section><!-- /Recent Blog Posts Section -->
    </main>
-  <!-- footer section displays here -->
+   <!-- footer section displays here -->
    <?php include_once 'includes/footer.php' ?>
 </body>
+
 </html>
 <!-- -->
