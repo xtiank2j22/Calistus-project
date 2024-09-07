@@ -27,327 +27,224 @@
       </div>
     </div><!-- End Page Title -->
 
-    <!-- Services Section -->
-    <section id="services" class="services section light-background">
 
-      <div class="container">
+      <!-- Services Section -->
+      <section id="services" class="services section light-background">
 
-        <div class="row gy-4">
+         <!-- Section Title -->
+         <div class="container section-title" data-aos="fade-up">
+            <h2>Services</h2>
+            <p>We offer a range of cutting-edge Compressed Natural Gas (CNG) technologies and services designed to help you transition to a cleaner and more efficient energy future. Explore our services below.</p>
+         </div><!-- End Section Title -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item  position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-mountain-city"></i>
-              </div>
-              <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
+         <div class="container">
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-              </div>
-              <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
+            <div class="row gy-4">
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-compass-drafting"></i>
-              </div>
-              <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
+               <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                  <div class="service-item  position-relative">
+                     <div class="icon">
+                        <i class="fa-solid fa-mountain-city"></i>
+                     </div>
+                     <h3>CNG Downloading Station</h3>
+                     <p class="justify-text">We design and build state-of-the-art CNG downloading stations, making it easier for fleets and fueling stations to adopt CNG. Our innovative approach reduces greenhouse gas emissions and reliance on fossil fuels.</p>
+                     <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                  </div>
+               </div><!-- End Service Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-trowel-bricks"></i>
-              </div>
-              <h3>Asperiores Commodit</h3>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
+               <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                  <div class="service-item position-relative">
+                     <div class="icon">
+                        <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+                     </div>
+                     <h3>Gas Generators Installation</h3>
+                     <p class="justify-text">We install and maintain CNG-powered generators that provide efficient, cost-effective, and environmentally friendly electricity. Our expert team ensures seamless integration and long-term reliability for your power needs.</p>
+                     <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                  </div>
+               </div><!-- End Service Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-helmet-safety"></i>
-              </div>
-              <h3>Velit Doloremque</h3>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
+              
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-              </div>
-              <h3>Dolori Architecto</h3>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
+               <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                  <div class="service-item position-relative">
+                     <div class="icon">
+                        <i class="fa-solid fa-trowel-bricks"></i>
+                     </div>
+                     <h3>CNG Supply</h3>
+                     <p class="justify-text">We specialize in supplying high-quality Compressed Natural Gas (CNG) for transportation and power generation. Our reliable and cost-effective supply supports your transition to sustainable energy.</p>
+                     <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                  </div>
+               </div><!-- End Service Item -->
 
-        </div>
+               <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                  <div class="service-item position-relative">
+                     <div class="icon">
+                        <i class="fa-solid fa-helmet-safety"></i>
+                     </div>
+                     <h3>NGV Installation</h3>
+                     <p class="justify-text">We help fleets and drivers convert to natural gas vehicles (NGVs), reducing emissions and fuel costs. Our comprehensive services make the switch to sustainable fuel sources easy and efficient.</p>
+                     <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                  </div>
+               </div><!-- End Service Item -->
 
-      </div>
-
-    </section><!-- /Services Section -->
-
-    <!-- Features Cards Section -->
-    <section id="features-cards" class="features-cards section">
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Quasi eaque omnis</h3>
-            <p>Eius non minus autem soluta ut ui labore omnis quisquam corrupti autem odit voluptas quos commodi magnam occaecati.</p>
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Ullamco laboris nisi ut aliquip</span></li>
-              <li><i class="bi bi-check2"></i> <span>Duis aute irure dolor in reprehenderit</span></li>
-              <li><i class="bi bi-check2"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <h3>Et nemo dolores consectetur</h3>
-            <p>Ducimus ea quam et occaecati est. Temporibus in soluta labore voluptates aut. Et sit soluta non repellat sed quia dire plovers tradoria</p>
-
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Enim temporibus maiores eligendi</span></li>
-              <li><i class="bi bi-check2"></i> <span>Ut maxime ut quibusdam quam qui</span></li>
-              <li><i class="bi bi-check2"></i> <span>Officiis aspernatur in officiis</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <h3>Staque laboriosam modi</h3>
-            <p>Velit eos error et dolor omnis voluptates nobis tenetur sed enim nihil vero qui suscipit ipsum at magni. Ipsa architecto consequatur aliquam</p>
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Quis voluptates laboriosam numquam</span></li>
-              <li><i class="bi bi-check2"></i> <span>Debitis eos est est corrupti</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <h3>Dignissimos suscipit iste</h3>
-            <p>Molestiae occaecati assumenda quia saepe nobis recusandae at dicta ducimus sequi numquam commodi est in consequatur ea magnam quia itaque</p>
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Veritatis qui reprehenderit quis</span></li>
-              <li><i class="bi bi-check2"></i> <span>Accusantium vel numquam sunt minus</span></li>
-              <li><i class="bi bi-check2"></i> <span>Voluptatem pariatur est sationem</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Features Cards Section -->
-
-    <!-- Alt Services 2 Section -->
-    <section id="alt-services-2" class="alt-services-2 section">
-
-      <div class="container">
-
-        <div class="row justify-content-around gy-4">
-
-          <div class="col-lg-6 d-flex flex-column justify-content-center order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-            <h3>Enim quis est voluptatibus aliquid consequatur</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
-
-            <div class="row">
-
-              <div class="col-lg-6 icon-box d-flex">
-                <i class="bi bi-easel flex-shrink-0"></i>
-                <div>
-                  <h4>Lorem Ipsum</h4>
-                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias </p>
-                </div>
-              </div><!-- End Icon Box -->
-
-              <div class="col-lg-6 icon-box d-flex">
-                <i class="bi bi-patch-check flex-shrink-0"></i>
-                <div>
-                  <h4>Nemo Enim</h4>
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiise</p>
-                </div>
-              </div><!-- End Icon Box -->
-
-              <div class="col-lg-6 icon-box d-flex">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                  <h4>Dine Pad</h4>
-                  <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit</p>
-                </div>
-              </div><!-- End Icon Box -->
-
-              <div class="col-lg-6 icon-box d-flex">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                  <h4>Tride clov</h4>
-                  <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit</p>
-                </div>
-              </div><!-- End Icon Box -->
+               
 
             </div>
 
-          </div>
+         </div>
 
-          <div class="features-image col-lg-5 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/features-3-2.jpg" alt="">
-          </div>
+      </section><!-- /Services Section -->
 
-        </div>
-
-      </div>
-
-    </section><!-- /Alt Services 2 Section -->
-
+   
+ 
     <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+<!-- Section Title -->
+<div class="container section-title" data-aos="fade-up">
+   <h2>Testimonials</h2>
+   <p>Here's what our satisfied clients are saying about their experience with us.</p>
 
-        <div class="swiper init-swiper">
-          <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              },
-              "breakpoints": {
-                "320": {
-                  "slidesPerView": 1,
-                  "spaceBetween": 40
-                },
-                "1200": {
-                  "slidesPerView": 2,
-                  "spaceBetween": 20
-                }
-              }
-            }
-          </script>
-          <div class="swiper-wrapper">
+</div><!-- End Section Title -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+<div class="container" data-aos="fade-up" data-aos-delay="100">
+
+   <div class="swiper init-swiper">
+      <script type="application/json" class="swiper-config">
+   {
+     "loop": true,
+     "speed": 600,
+     "autoplay": {
+       "delay": 5000
+     },
+     "slidesPerView": "auto",
+     "pagination": {
+       "el": ".swiper-pagination",
+       "type": "bullets",
+       "clickable": true
+     },
+     "breakpoints": {
+       "320": {
+         "slidesPerView": 1,
+         "spaceBetween": 40
+       },
+       "1200": {
+         "slidesPerView": 2,
+         "spaceBetween": 20
+       }
+     }
+   }
+ </script>
+      <div class="swiper-wrapper">
+
+         <div class="swiper-slide">
+            <div class="testimonial-wrap">
+               <div class="testimonial-item">
+                  <img src="assets/img/testimonials/f5.jpg" class="testimonial-img" alt="">
+                  <h3>Lawrence Chris</h3>
+                  
                   <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i>
                   </div>
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
+                     <i class="bi bi-quote quote-icon-left"></i>
+                     <span>Working with DONCASSA TECHNOLOGIES LTD. has been a game-changer for our business. Their team's professionalism and technical expertise ensured that our project was completed flawlessly. They truly understand our needs and delivered results that exceeded our expectations.</span>
+                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+               </div>
+            </div>
+         </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+         <div class="swiper-slide">
+            <div class="testimonial-wrap">
+               <div class="testimonial-item">
+                  <img src="assets/img/testimonials/f3.jpeg" class="testimonial-img" alt="">
+                 
+                  <h3>Ochuli Oche</h3>
                   <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i>
                   </div>
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
+                     <i class="bi bi-quote quote-icon-left"></i>
+                     <span>DONCASSA TECHNOLOGIES LTD. provided exceptional service from start to finish. Their attention to detail, proactive communication, and dedication to quality made the entire process seamless. We couldn't be more pleased with the final outcome and highly recommend their services.</span>
+                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+               </div>
+            </div>
+         </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+         <div class="swiper-slide">
+            <div class="testimonial-wrap">
+               <div class="testimonial-item">
+                  <img src="assets/img/testimonials/f2.jpg" class="testimonial-img" alt="">
+                  <h3>Courage Mosses</h3>
+               
                   <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i>
                   </div>
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
+                     <i class="bi bi-quote quote-icon-left"></i>
+                     <span>The team at DONCASSA TECHNOLOGIES LTD. went above and beyond to deliver exactly what we needed. Their commitment to excellence and customer satisfaction is unmatched. We are thrilled with the results and look forward to continuing our partnership with them.</span>
+                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+               </div>
+            </div>
+         </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
+         <div class="swiper-slide">
+            <div class="testimonial-wrap">
+               <div class="testimonial-item">
+                  <img src="assets/img/testimonials/f1.jpg" class="testimonial-img" alt="">
+                  <h3>Sarah Benson</h3>
+                  <!-- <h4>Freelancer</h4> -->
                   <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i>
                   </div>
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
+                     <i class="bi bi-quote quote-icon-left"></i>
+                     <span>DONCASSA TECHNOLOGIES LTD. took our vision and turned it into a reality. Their innovative approach and industry expertise made a significant difference in our project. They were always available to answer questions and provide guidance, ensuring that everything was on track. We highly recommend them!</span>
+                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+               </div>
+            </div>
+         </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
+         <div class="swiper-slide">
+            <div class="testimonial-wrap">
+               <div class="testimonial-item">
+                  <img src="assets/img/testimonials/f4.jpg" class="testimonial-img" alt="">
+                  <h3>Mercy Yabo</h3>
+                 
                   <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i>
                   </div>
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
+                     <i class="bi bi-quote quote-icon-left"></i>
+                     <span>I have worked with several companies, but DONCASSA TECHNOLOGIES LTD. stands out for their dedication to their clients. Their solutions are not only effective but also delivered with a level of professionalism and care that is hard to find. We are extremely satisfied with their work.</span>
+                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
+               </div>
+            </div>
+         </div><!-- End testimonial item -->
 
       </div>
+      <div class="swiper-pagination"></div>
+   </div>
 
-    </section><!-- /Testimonials Section -->
+</div>
+
+</section>
+<!-- /Testimonials Section -->
 
   </main>
   <?php include_once 'includes/footer.php' ?>

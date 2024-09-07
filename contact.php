@@ -34,7 +34,7 @@
               data-aos-delay="200">
               <i class="bi bi-geo-alt"></i>
               <h3>Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Suite 5, Nwafia Plaza KM 6 East/West Road Opposite Omega House, P/H River State.</p>
             </div>
           </div><!-- End Info Item -->
           <div class="col-lg-3 col-md-6">
@@ -42,7 +42,7 @@
               data-aos-delay="300">
               <i class="bi bi-telephone"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+ 234 9(0) 3274 6643</p>
             </div>
           </div><!-- End Info Item -->
           <div class="col-lg-3 col-md-6">
@@ -50,20 +50,26 @@
               data-aos-delay="400">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>info@example.com</p>
+              <p>doncassatechnologyltd@gmail.com</p>
             </div>
           </div><!-- End Info Item -->
         </div>
         <div class="row gy-4 mt-1">
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus"
-              frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div><!-- End Google Maps -->
+        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.454269876663!2d7.037224575047978!3d4.86328714022649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1069d32f153c772b%3A0x1e76a64de0ee02a3!2sDONCASSA%20TECHNOLOGIES%20LTD!5e0!3m2!1sen!2sng!4v1724713901283!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div><!-- End Google Maps -->
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
-              data-aos-delay="400">
+            <!-- <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="400"> -->
+            <form action="send_email.php" method="post" >
+            <?php
+// Check if there is a message in the URL
+if (isset($_GET['message'])) {
+    $message = $_GET['message'];
+    echo "<p>$message</p>";
+}
+?>
+			
+
               <div class="row gy-4">
                 <div class="col-md-6">
                   <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
@@ -78,10 +84,8 @@
                   <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
                 </div>
                 <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-                  <button type="submit">Send Message</button>
+
+                  <button type="submit" class="btn btn-com-color mt-3">Send Message</button>
                 </div>
               </div>
             </form>
