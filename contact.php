@@ -34,7 +34,7 @@
               data-aos-delay="200">
               <i class="bi bi-geo-alt"></i>
               <h3>Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Suite 5, Nwafia Plaza KM 6 East/West Road Opposite Omega House, P/H River State.</p>
             </div>
           </div><!-- End Info Item -->
           <div class="col-lg-3 col-md-6">
@@ -42,7 +42,7 @@
               data-aos-delay="300">
               <i class="bi bi-telephone"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+ 234 9(0) 3274 6643</p>
             </div>
           </div><!-- End Info Item -->
           <div class="col-lg-3 col-md-6">
@@ -50,7 +50,7 @@
               data-aos-delay="400">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>info@example.com</p>
+              <p>doncassatechnologyltd@gmail.com</p>
             </div>
           </div><!-- End Info Item -->
         </div>

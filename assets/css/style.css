@@ -121,3 +121,32 @@ body {
   background-color: rgb(172, 213, 172) !important;
   color: rgb(5, 48, 5) !important;
 }
+.height-300{
+  height: 250px !important;
+}
+.image-container {
+  position: relative;
+  display: inline-block; /* Ensures the container fits the image */
+}
+
+.image-container img {
+  display: block; /* Removes bottom space/whitespace */
+  width: 100%; /* Ensures the image fits the container */
+  height: auto; /* Maintains aspect ratio */
+}
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5); /* Black background with 50% opacity */
+  color: white; /* Text color */
+  padding: 10px; /* Optional: add padding around text */
+  text-align: center; /* Center text */
+  border-radius: 5px; /* Optional: rounded corners for background */
+}
+
+.overlay h4 {
+  margin: 0; /* Remove default margin */
+}

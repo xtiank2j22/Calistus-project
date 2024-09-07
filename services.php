@@ -9,9 +9,10 @@
   <meta name="keywords" content="">
   <!-- the css links are here -->
   <?php include_once 'includes/css-link.php' ?>
+
 <body class="services-page">
   <!-- the navigation bar is here -->
-<?php include_once 'includes/header.php' ?>
+  <?php include_once 'includes/header.php' ?>
   <main class="main">
 
     <!-- Page Title -->
@@ -26,190 +27,79 @@
         </nav>
       </div>
     </div><!-- End Page Title -->
-
     <!-- Services Section -->
     <section id="services" class="services section light-background">
-
       <div class="container">
-
         <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item  position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-mountain-city"></i>
+              <h3>WHO NEEDS CNG?</h3>
+              <p>CNG power solution is gradually evolving into the principal power source of choice for many countries. Hence policy makers in Nigeria is deploying different measures to encourage users to adopt it. This is especially as the commodity is in abundant quantity in the country. Therefore, while it can be argued that the list of potential CNG users is inexhaustible, some major users are presented below.</p>
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="image-container">
+                    <img src="assets/img/services/ford-cleveland-engine-plant-no-1jpg-9483d4ff50afadf0.jpg" class="img-fluid height-300" alt="">
+                    <div class="overlay">
+                      <h6 class="text-white">Manufacturing Business</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="image-container">
+                    <img src="assets/img/services/istockphoto-1165384568-612x612.jpg" class="img-fluid height-300" alt="">
+                    <div class="overlay">
+                    <h6 class="text-white">Residential Estate & Building</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="image-container">
+                    <img src="assets/img/services/Nigerian-Banks-1.jpg" class="img-fluid height-300" alt="">
+                    <div class="overlay">
+                      <h6 class="text-white">Manufacturing Business</h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="image-container">
+                    <img src="assets/img/services/patient-rooms-1.jpg" class="img-fluid height-300" alt="">
+                    <div class="overlay">
+                      <h6 class="text-white">Hospitals</h6>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-              </div>
-              <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-compass-drafting"></i>
-              </div>
-              <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-trowel-bricks"></i>
-              </div>
-              <h3>Asperiores Commodit</h3>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-helmet-safety"></i>
-              </div>
-              <h3>Velit Doloremque</h3>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-              </div>
-              <h3>Dolori Architecto</h3>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
         </div>
-
       </div>
-
     </section><!-- /Services Section -->
-
-    <!-- Features Cards Section -->
-    <section id="features-cards" class="features-cards section">
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Quasi eaque omnis</h3>
-            <p>Eius non minus autem soluta ut ui labore omnis quisquam corrupti autem odit voluptas quos commodi magnam occaecati.</p>
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Ullamco laboris nisi ut aliquip</span></li>
-              <li><i class="bi bi-check2"></i> <span>Duis aute irure dolor in reprehenderit</span></li>
-              <li><i class="bi bi-check2"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <h3>Et nemo dolores consectetur</h3>
-            <p>Ducimus ea quam et occaecati est. Temporibus in soluta labore voluptates aut. Et sit soluta non repellat sed quia dire plovers tradoria</p>
-
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Enim temporibus maiores eligendi</span></li>
-              <li><i class="bi bi-check2"></i> <span>Ut maxime ut quibusdam quam qui</span></li>
-              <li><i class="bi bi-check2"></i> <span>Officiis aspernatur in officiis</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <h3>Staque laboriosam modi</h3>
-            <p>Velit eos error et dolor omnis voluptates nobis tenetur sed enim nihil vero qui suscipit ipsum at magni. Ipsa architecto consequatur aliquam</p>
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Quis voluptates laboriosam numquam</span></li>
-              <li><i class="bi bi-check2"></i> <span>Debitis eos est est corrupti</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <h3>Dignissimos suscipit iste</h3>
-            <p>Molestiae occaecati assumenda quia saepe nobis recusandae at dicta ducimus sequi numquam commodi est in consequatur ea magnam quia itaque</p>
-            <ul class="list-unstyled">
-              <li><i class="bi bi-check2"></i> <span>Veritatis qui reprehenderit quis</span></li>
-              <li><i class="bi bi-check2"></i> <span>Accusantium vel numquam sunt minus</span></li>
-              <li><i class="bi bi-check2"></i> <span>Voluptatem pariatur est sationem</span></li>
-            </ul>
-          </div><!-- End feature item-->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Features Cards Section -->
-
     <!-- Alt Services 2 Section -->
     <section id="alt-services-2" class="alt-services-2 section">
-
       <div class="container">
-
         <div class="row justify-content-around gy-4">
-
           <div class="col-lg-6 d-flex flex-column justify-content-center order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-            <h3>Enim quis est voluptatibus aliquid consequatur</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
-
+            <h3>OUR SERVICES</h3>
+            <p class="justify-text-in">Natural Gas Services is our core competence. We have a long-standing experience with natural gas system installation and maintenance. We install natural gas compressors and pressure reducing and metering stations; and also set up natural gas generators all at competitive prices to help our clients gain energy independence whilst also reducing the cost of power generation.</p>
             <div class="row">
-
               <div class="col-lg-6 icon-box d-flex">
                 <i class="bi bi-easel flex-shrink-0"></i>
                 <div>
-                  <h4>Lorem Ipsum</h4>
-                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias </p>
+                  <h4>Mother Stations</h4>
+                  <p class="justify-text-in">The generally standard CNG stations which dispense a large volume of compressed natural gas into mobile CNG trailer trucks. The trailers transport the gas to sites that do not have access to a natural gas pipelines.</p>
                 </div>
               </div><!-- End Icon Box -->
-
               <div class="col-lg-6 icon-box d-flex">
                 <i class="bi bi-patch-check flex-shrink-0"></i>
                 <div>
-                  <h4>Nemo Enim</h4>
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiise</p>
+                  <h4>Daughter Station</h4>
+                  <p class="justify-text-in">At the Daughter Station, the CMD system offloads the gas directly into storage, vehicles or through the small, onsite compressors. The system can take fuel from multiple trailers, individually or at one time.</p>
                 </div>
               </div><!-- End Icon Box -->
-
-              <div class="col-lg-6 icon-box d-flex">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                  <h4>Dine Pad</h4>
-                  <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit</p>
-                </div>
-              </div><!-- End Icon Box -->
-
-              <div class="col-lg-6 icon-box d-flex">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                  <h4>Tride clov</h4>
-                  <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit</p>
-                </div>
-              </div><!-- End Icon Box -->
-
             </div>
-
           </div>
-
           <div class="features-image col-lg-5 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/features-3-2.jpg" alt="">
+            <img src="assets/img/about/1716800605126.jpeg" alt="">
           </div>
 
         </div>
