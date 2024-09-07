@@ -28,8 +28,8 @@
          <img src="../assets/img/slider-image/cbus-cng-14.jpeg" alt="Chicago" class="d-block w-100 carousel-image">
          <div class="carousel-overlay"></div>
          <div class="carousel-caption d-flex flex-column justify-content-center align-items-center h-100">
-            <h1 class="text-whitegreen">Innovative Solar Energy Systems</h1>
-            <h4 class="text-white">Harness the power of the sun with our state-of-the-art solar <br>installation and maintenance services.</h4>
+            <h1 class="text-whitegreen">Precision Engineering Procurement</h1>
+            <h4 class="text-white">We specialize in sourcing and supplying top-tier materials and <br>equipment for gas and solar energy projects.</h4>
             <a href="#" class="btn btn-com-color mt-3">Learn More</a>
          </div>
       </div>
@@ -37,8 +37,8 @@
          <img src="/assets/img/slider-image/Workers-solar.jpg" alt="New York" class="d-block w-100 carousel-image">
          <div class="carousel-overlay"></div>
          <div class="carousel-caption d-flex flex-column justify-content-center align-items-center h-100">
-            <h1 class="text-whitegreen">Precision Engineering Procurement</h1>
-            <h4 class="text-white">We specialize in sourcing and supplying top-tier materials and <br>equipment for gas and solar energy projects.</h4>
+            <h1 class="text-whitegreen">Innovative Solar Energy Systems</h1>
+            <h4 class="text-white">Harness the power of the sun with our state-of-the-art solar <br>installation and maintenance services.</h4>
             <a href="#" class="btn btn-com-color mt-3">Learn More</a>
          </div>
       </div>

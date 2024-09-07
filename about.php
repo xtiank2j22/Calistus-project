@@ -50,19 +50,19 @@
       </div>
     </section><!-- /About Section -->
     <!-- Stats Counter Section -->
-    <section id="stats-counter" class="stats-counter section">
+    <!-- <section id="stats-counter" class="stats-counter section">-->
 
       <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
+      <!-- <div class="container section-title" data-aos="fade-up">
         <h2>Stats</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+      </div>End Section Title --> 
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <!-- <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="row gy-4">
+        <div class="row gy-4"> -->
 
-          <div class="col-lg-3 col-md-6">
+          <!-- <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
               <div>
@@ -70,9 +70,9 @@
                 <p>Happy Clients</p>
               </div>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <!-- <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
               <div>
@@ -80,9 +80,9 @@
                 <p>Projects</p>
               </div>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <!-- <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-headset color-green flex-shrink-0"></i>
               <div>
@@ -90,9 +90,9 @@
                 <p>Hours Of Support</p>
               </div>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <!-- <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-people color-pink flex-shrink-0"></i>
               <div>
@@ -100,13 +100,13 @@
                 <p>Hard Workers</p>
               </div>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item -->
 
-        </div>
+        <!-- </div>
 
       </div>
 
-    </section><!-- /Stats Counter Section -->
+    </section>/Stats Counter Section -->
     <!-- Alt Services 2 Section -->
     <section id="alt-services-2" class="alt-services-2 section">
       <div class="container">
