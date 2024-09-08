@@ -88,7 +88,7 @@
                <div class="col-md-6 col-12" data-aos="zoom-out" data-aos-delay="100">
                   <div class="content">
                      <h3>WHAT WE DO </h3>
-                     <p class="text-justify lh-lg">Our core competence is the delivery of compressed natural gas technologies. We have a
+                     <p class="justify-text-in lh-lg">Our core competence is the delivery of compressed natural gas technologies. We have a
                         long-standing experience with natural gas system installation and maintenance. We install
                         natural gas compressors and pressure-reducing and metering stations; we set up natural gas
                         generators and also convert diesel and petrol vehicles to natural gas vehicles, all at
@@ -117,7 +117,7 @@
                   </div><!-- End Card Item -->
                   <div class="col-lg-6 col-12">
                      <h1 class="card-title mb-5">CNG downloading station</h1>
-                     <h5 class="lh-lg text-muted justify-text-in">We're pioneering a cleaner, greener future by designing and building state-of-the-art CNG downloading stations. Our innovative approach makes it easier for fleets and fueling stations to adopt CNG, reducing greenhouse gas emissions and dependence on fossil fuels. We offer cutting-edge technology, expert engineering, and a commitment to exceptional customer service.</h5>
+                     <p class="justify-text-in lh-lg">We're pioneering a cleaner, greener future by designing and building state-of-the-art CNG downloading stations. Our innovative approach makes it easier for fleets and fueling stations to adopt CNG, reducing greenhouse gas emissions and dependence on fossil fuels. We offer cutting-edge technology, expert engineering, and a commitment to exceptional customer service.</p>
                   </div>
                </div>
             </div>
@@ -171,132 +171,8 @@
          </div>
       </section><!-- /Constructions Section -->
       <!-- Testimonials Section -->
-      <section id="testimonials" class="testimonials section">
-         <div class="container" data-aos="fade-up" data-aos-delay="100">
-            <div class="swiper init-swiper">
-               <script type="application/json" class="swiper-config">
-                  {
-                     "loop": true,
-                     "speed": 600,
-                     "autoplay": {
-                        "delay": 5000
-                     },
-                     "slidesPerView": "auto",
-                     "pagination": {
-                        "el": ".swiper-pagination",
-                        "type": "bullets",
-                        "clickable": true
-                     },
-                     "breakpoints": {
-                        "320": {
-                           "slidesPerView": 1,
-                           "spaceBetween": 40
-                        },
-                        "1200": {
-                           "slidesPerView": 2,
-                           "spaceBetween": 20
-                        }
-                     }
-                  }
-               </script>
-               <div class="swiper-wrapper">
-
-                  <div class="swiper-slide">
-                     <div class="testimonial-wrap">
-                        <div class="testimonial-item">
-                           <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                           <h3>Saul Goodman</h3>
-                           <h4>Ceo &amp; Founder</h4>
-                           <div class="stars">
-                              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                           </div>
-                           <p>
-                              <i class="bi bi-quote quote-icon-left"></i>
-                              <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-                              <i class="bi bi-quote quote-icon-right"></i>
-                           </p>
-                        </div>
-                     </div>
-                  </div><!-- End testimonial item -->
-
-                  <div class="swiper-slide">
-                     <div class="testimonial-wrap">
-                        <div class="testimonial-item">
-                           <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                           <h3>Sara Wilsson</h3>
-                           <h4>Designer</h4>
-                           <div class="stars">
-                              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                           </div>
-                           <p>
-                              <i class="bi bi-quote quote-icon-left"></i>
-                              <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
-                              <i class="bi bi-quote quote-icon-right"></i>
-                           </p>
-                        </div>
-                     </div>
-                  </div><!-- End testimonial item -->
-
-                  <div class="swiper-slide">
-                     <div class="testimonial-wrap">
-                        <div class="testimonial-item">
-                           <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                           <h3>Jena Karlis</h3>
-                           <h4>Store Owner</h4>
-                           <div class="stars">
-                              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                           </div>
-                           <p>
-                              <i class="bi bi-quote quote-icon-left"></i>
-                              <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
-                              <i class="bi bi-quote quote-icon-right"></i>
-                           </p>
-                        </div>
-                     </div>
-                  </div><!-- End testimonial item -->
-
-                  <div class="swiper-slide">
-                     <div class="testimonial-wrap">
-                        <div class="testimonial-item">
-                           <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                           <h3>Matt Brandon</h3>
-                           <h4>Freelancer</h4>
-                           <div class="stars">
-                              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                           </div>
-                           <p>
-                              <i class="bi bi-quote quote-icon-left"></i>
-                              <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
-                              <i class="bi bi-quote quote-icon-right"></i>
-                           </p>
-                        </div>
-                     </div>
-                  </div><!-- End testimonial item -->
-                  <div class="swiper-slide">
-                     <div class="testimonial-wrap">
-                        <div class="testimonial-item">
-                           <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                           <h3>John Larson</h3>
-                           <h4>Entrepreneur</h4>
-                           <div class="stars">
-                              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                           </div>
-                           <p>
-                              <i class="bi bi-quote quote-icon-left"></i>
-                              <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                              <i class="bi bi-quote quote-icon-right"></i>
-                           </p>
-                        </div>
-                     </div>
-                  </div><!-- End testimonial item -->
-
-               </div>
-               <div class="swiper-pagination"></div>
-            </div>
-
-         </div>
-
-      </section><!-- /Testimonials Section -->
+      <?php include_once 'includes/testimonies.php' ?>
+      <!-- /Testimonials Section -->
    </main>
    <!-- footer section displays here -->
    <?php include_once 'includes/footer.php' ?>
