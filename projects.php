@@ -35,7 +35,7 @@
       </div><!-- End Section Title -->
       <div class="container">
         <div class="content">
-          <h3>CNG Gas Project</h3>
+          <h3>CNG Gas Projects</h3>
         </div>
         <div class="row gy-4">
           <div class="col-lg-4">
