@@ -60,3 +60,4 @@
 <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
 <!-- Main JS File -->
 <script src="assets/js/main.js"></script>
+<script src="assets/js/script.js"></script>

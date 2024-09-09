@@ -45,7 +45,6 @@
 }
 .justify-text-in {
   text-align: justify !important;
-  text-justify: inter-word !important;
 }
 .square-list {
   list-style-type: square !important;
@@ -149,4 +148,25 @@ body {
 
 .overlay h4 {
   margin: 0; /* Remove default margin */
+}
+.post-img img {
+  width: 100%; /* Make the width responsive */
+  height: 250px; /* Set a fixed height for all images */
+  object-fit: cover; /* Prevent stretching, crop the image to fit */
+}
+.more-text {
+  display: none; /* Hide extra content initially */
+}
+.read-more-btn {
+  background-color: #00af50 ;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bolder !important;
+}
+.read-more-btn:hover {
+  background-color: rgb(172, 213, 172) !important;
+  color:rgb(5, 48, 5) !important;
 }

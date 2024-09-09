@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -8,10 +9,11 @@
   <meta name="keywords" content="">
   <?php include_once 'includes/css-link.php' ?>
 </head>
+
 <body class="contact-page">
   <!-- the header section -->
-<?php include_once 'includes/header.php' ?>
-<!-- the header section end -->
+  <?php include_once 'includes/header.php' ?>
+  <!-- the header section end -->
   <main class="main">
     <!-- Page Title -->
     <div class="page-title dark-background" style="background-image: url(assets/img/page-title-bg.jpg);">
@@ -44,7 +46,6 @@
               <h3>Call Us</h3>
               <p>+ 234 9(0) 3274 6643</p>
             </div>
-            
           </div><!-- End Info Item -->
           <div class="col-lg-3 col-md-6">
             <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up"
@@ -57,23 +58,19 @@
         </div>
         <div class="row gy-4 mt-1">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus"
-              frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2022.4666336313144!2d7.035280901318055!3d4.865324406335108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1069d32f153c772b%3A0x1e76a64de0ee02a3!2sDONCASSA%20TECHNOLOGIES%20LTD!5e0!3m2!1sen!2sng!4v1725837633166!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div><!-- End Google Maps -->
           <div class="col-lg-6">
+            <h1 class="p-3">Message Us Today!</h1>
             <!-- <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="400"> -->
-            <form action="send_email.php" method="post" >
-            <?php
-// Check if there is a message in the URL
-if (isset($_GET['message'])) {
-    $message = $_GET['message'];
-    echo "<p>$message</p>";
-}
-?>
-			
-
+            <form action="send_email.php" method="post">
+              <?php
+              // Check if there is a message in the URL
+              if (isset($_GET['message'])) {
+                $message = $_GET['message'];
+                echo "<p>$message</p>";
+              }
+              ?>
               <div class="row gy-4">
                 <div class="col-md-6">
                   <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
@@ -100,4 +97,5 @@ if (isset($_GET['message'])) {
   </main>
   <?php include_once 'includes/footer.php' ?>
 </body>
+
 </html>
