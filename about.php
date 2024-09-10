@@ -38,8 +38,8 @@
             <h2 class="inner-title">About Our Company</h2>
             <div class="our-story">
               <h3>Our Story</h3>
-              <p class="justify-text-in">DONCASSA TECHNOLOGIES LIMITED is a privately owned indigenous company, focused on providing Engineering, Procurement and Construction service to the downstream Natural Gas industry in Nigeria. We adhere to the highest standards of professionalism and strive to exceed the expectations of our clients through integrity, adherence to strict safety culture and delivery of high quality service.</p>
-              <p class="justify-text-in">We offer personalized contracting models which result in reduced lead time, improved customer experience, high quality products and services, and reduced cost. We maintain strategic partnership with critical stakeholders in the Natural Gas business ecosystem and this helps us to guarantee the best level of service delivery to our clients. We operate with global outlook and our services are carried out according to international standards.</p>
+              <p class="">DONCASSA TECHNOLOGIES LIMITED is a privately owned indigenous company, focused on providing Engineering, Procurement and Construction service to the downstream Natural Gas industry in Nigeria. We adhere to the highest standards of professionalism and strive to exceed the expectations of our clients through integrity, adherence to strict safety culture and delivery of high quality service.</p>
+              <p class="">We offer personalized contracting models which result in reduced lead time, improved customer experience, high quality products and services, and reduced cost. We maintain strategic partnership with critical stakeholders in the Natural Gas business ecosystem and this helps us to guarantee the best level of service delivery to our clients. We operate with global outlook and our services are carried out according to international standards.</p>
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-arrow-right-circle-fill"></i>
                 <a href="about.php" class="glightbox stretched-link">Learn More</a>
@@ -110,34 +110,34 @@
         <div class="row justify-content-around gy-4">
           <div class="col-lg-6 d-flex flex-column justify-content-center order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
             <h1>DONCASSA VALUE CYCLE</h1>
-            <p class="justify-text-in">Our core values can be summarized into safety, quality, customer satisfaction and team work. These principles define our organizational culture and drives our service delivery philosophy.</p>
+            <p class="">Our core values can be summarized into safety, quality, customer satisfaction and team work. These principles define our organizational culture and drives our service delivery philosophy.</p>
             <div class="row">
               <div class="col-lg-6 icon-box d-flex">
                 <i class="bi bi-safe-fill flex-shrink-0"></i>
                 <div class="card-body">
                   <h4>Safety</h4>
-                  <p class="justify-text-in">In DONCASSA Technologies, safety culture is transmitted from top to bottom. Systems are designed and implemented to meet the highest international safety standard and considerations are made to ensure the safety of our employees, partners, clients and other relevant stakeholders.</p>
+                  <p class="">In DONCASSA Technologies, safety culture is transmitted from top to bottom. Systems are designed and implemented to meet the highest international safety standard and considerations are made to ensure the safety of our employees, partners, clients and other relevant stakeholders.</p>
                 </div>
               </div><!-- End Icon Box -->
               <div class="col-lg-6 icon-box d-flex">
                 <i class="bi bi-microsoft-teams flex-shrink-0"></i>
                 <div>
                   <h4>Team Work</h4>
-                  <p class="justify-text-in">The unity of a well bonded team is a key driver for success. DONCASSA is made up of closely knit professionals that make effort to augment each other. Team work is also made easier by the fact that all employees are appropriately equipped with the skills that allow them to excel in their main roles whilst making valuable contributions in other related areas.</p>
+                  <p class="">The unity of a well bonded team is a key driver for success. DONCASSA is made up of closely knit professionals that make effort to augment each other. Team work is also made easier by the fact that all employees are appropriately equipped with the skills that allow them to excel in their main roles whilst making valuable contributions in other related areas.</p>
                 </div>
               </div><!-- End Icon Box -->
               <div class="col-lg-6 icon-box d-flex">
                 <i class="bi bi-award-fill flex-shrink-0"></i>
                 <div>
                   <h4>Quality</h4>
-                  <p class="justify-text-in">We acknowledge that quality service delivery is the core expectation of our clients. Therefore, whilst we strive to exceed the expectations of our clients; our operations are carried out to meet and exceed international standards. We are inspired to do it better.</p>
+                  <p class="">We acknowledge that quality service delivery is the core expectation of our clients. Therefore, whilst we strive to exceed the expectations of our clients; our operations are carried out to meet and exceed international standards. We are inspired to do it better.</p>
                 </div>
               </div><!-- End Icon Box -->
               <div class="col-lg-6 icon-box d-flex">
                 <i class="bi bi-hand-thumbs-up-fill flex-shrink-0"></i>
                 <div>
                   <h4>Customer Satisfaction</h4>
-                  <p class="justify-text-in">At DONCASSA, we sit on the same side as our clients, with the utmost goal of satisfying all customer needs irrespective of strain on profitability.</p>
+                  <p class="">At DONCASSA, we sit on the same side as our clients, with the utmost goal of satisfying all customer needs irrespective of strain on profitability.</p>
                 </div>
               </div><!-- End Icon Box -->
             </div>
@@ -161,7 +161,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
             <div class="member-img">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/owner.jpeg" class="img-fluid" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>

@@ -44,9 +44,9 @@
                 <img src="assets/img/projects/compressor-section.png" class="img-fluid height-350" alt="">
               </div>
               <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Compression section</h3>
-                <p class="justify-text-in">
-                  Having 8 individual compressors with capacity of 1,770SCMH. It is a Caterpillar engine driven compressor with 3 compression sections of compressions, 18-60bar, 60-140bar and 140-250bar.
+                <h3 class="post-title">Gas Compression: </h3>
+                <p class="j">
+                  This project involved 8 individual compressors with capacity of 1,770SCMH. It is a Caterpillar engine driven compressor with 3 compression sections of 18-60bar, 60-140bar and 140-250bar.
                 </p>
                 <hr>
               </div>
@@ -58,9 +58,9 @@
                 <img src="assets/img/projects/dryer.png" class="img-fluid height-350" alt="">
               </div>
               <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Dryer section</h3>
-                <p class="justify-text-in">
-                  This section helps to squeeze out moisture content from the gas. It also further removes condensate.
+                <h3 class="post-title">Dryer section:</h3>
+                <p class="">
+                  Dryer sections helps to squeeze out moisture content from the gas. It also further removes condensate
                 </p>
                 <hr>
               </div>
@@ -72,9 +72,9 @@
                 <img src="assets/img/projects/gas-filltration.png" class="img-fluid height-350" alt="">
               </div>
               <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Gas filtration section</h3>
-                <p class="justify-text-in">
-                  This section removes condensates and unwanted particles. It is equipped with automatic drain valves and level gauges. It also has a breathing valve on the top, with safety relief valves set to 22.5bar. Furthermore, it has a nitrogen pipping to the top of the vessel that helps to blanket the liquid condensate against burning in the case of fire outbreak.
+                <h3 class="post-title">Gas filtration section.</h3>
+                <p class="">
+                  This section removes condensates and unwanted particles. It is equipped with automatic drain valves and level gauges. It also has a breathing valve on the top, with safety relief valves set to 22.5bar. Furthermore, it has a nitrogen piping to the top of the vessel that helps to blanket the liquid condensate against burning in the case of fire outbreak.
                 </p>
                 <hr>
               </div>
@@ -87,8 +87,8 @@
               </div>
               <div class="post-content d-flex flex-column">
                 <h3 class="post-title">CNG Downloading station</h3>
-                <p class="justify-text-in">
-                  with capacity of 3000SCMH, to power 5MW plant and furnaces.
+                <p class="">
+                  This station comes with capacity of 3000SCMH, and is used to power 5MW plant and furnaces.
                 </p>
                 <hr>
               </div>
@@ -100,9 +100,9 @@
                 <img src="assets/img/projects/left.png" class="img-fluid height-350 w-100" alt="">
               </div>
               <div class="post-content d-flex flex-column">
-                <h3 class="post-title">Left Control Atlas Copco Compressor</h3>
+                <h3 class="post-title">CNG Compressor and Dispenser:</h3>
                 <p class="justify-text-in">
-                  Left Control Centre of Atlas Copco compressor PLC Panels.
+                  Image on the left shows the control centre of Atlas Copco compressor PLC Panels while the image on the right shows a typical single unit CNG dispenser.
                 </p>
                 <hr>
               </div>
@@ -129,53 +129,53 @@
     <section id="services" class="services section light-background">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>MOST RECENT JOBS</h2>
+        <h2>Completed Project</h2>
       </div><!-- End Section Title -->
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item  position-relative">
-              <h3>Client: GZ Industries Agbara</h3>
-              <p>
-                <span class="text-light-green ">Project Description:</span> EPC for an Atlas Copco 3000SCMH (2.04MMSCFD) PRMS
+              <h5>
+                CNG Power Project for a Religious Organization, located in Abia State, Nigeria.
+                Project Duration - 3 months.</h5>
+              <p class="pt-2">
+              <h3>Summary of Job Done:</h3>
               <ul>
-                <li>Fabrication and installation of high pressure header for CNG downloading.</li>
-                <li>Fabrication and distribution of low pressure line to equipment.</li>
-                <li>Installation and Pre-Commissioning of the PRMS.</li>
-                <li>Processing of Necessary Permit from NMDPRA for the operation of CNG
-                  in the facility.</li>
+                <li>Mechanical and Electrical Installation of 500KW Gas Generator (Green Power Utility Brand).</li>
+                <li>Construction of Gas Link from Gas Source (SHELL Handshake) to Generator Reduction Unit.</li>
+                <li>Modification of Synchronization Panel to accommodate new Power Inputs.</li>
               </ul>
               </p>
             </div>
           </div><!-- End Service Item -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item  position-relative">
-              <h3>Greg Jane Industries, Aba Abia State</h3>
-              <p>
-                <span class="text-light-green ">Project Description:</span> EPCC of a Raygas 1000SCMH (1.2MMSCFD) DUAL STREAM PRMS
+              <h5>Turnkey CNG Project for a Plastic manufacturing company in Onitsha, Anambra State, Nigeria.
+                Project Duration - 35Days.</h5>
+              <p class="pt-2">
+              <h3>Summary of Job Done:</h3>
               <ul>
-                <li>Fabrication and installation of High pressure header for CNG downloading</li>
-                <li>Civil Construction of skid parking area for 50Tonnes weight.</li>
-                <li>Construction of low pressure line network to 2 Mega Watts Generators</li>
-                <li>Construction and testing of buffer tank/Accumulator for condensate
-                  collection.</li>
+                <li>Mechanical and Electrical Installation of 1.4MW (2 x 700KW) Gas Generators (Green Power Utilities Gas Generators).</li>
+                <li>Construction of Gas Pipe Network for gas supply to Generators.</li>
+                <li>Installation of 1000SCMH CNG Pressure Reduction and Metering Skid (PRMS).</li>
+                <li>Commissioning of 1000SCMH PRMS and Training of Operational Staff to run PRMS.</li>
               </ul>
-              Commissioning and training of personnel for operation of PRMS
               </p>
             </div>
           </div><!-- End Service Item -->
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item  position-relative">
-              <h3>Bayelsa Power, Bayelsa State</h3>
-              <p>
-                <span class="text-light-green ">Project Description:</span> Installation and Commissioning of 3000SCMH (2.04MMSCFD) Dual stream PRMS
-                <ul>
-                  <li>Cable Laying and termination for Instrument and power connections</li>
-                  <li>Installation of 5kva inverter for backup power</li>
-                  <li>Installation of knock out drum for condensate removal at upstream of 100bar</li>
-                  <li>Pre-Commissioning of PRMS and Training of operation personell. </li>
-                </ul>
-                Maintenance contract for PRMS (planned and Emergency)
+              <h5>CNG downloading station for an Aluminum recycling plant in Awka, Anambra State, Nigeria.
+                Project duration: 2 months.</h5>
+              <p class="pt-2">
+              <h3>Summary of Job Done:</h3>
+              <ul>
+                <li>Construction of a CNG downloading station.</li>
+                <li>Construction of a CNG High Pressure Header for CNG Download. </li>
+                <li> Construction and Erection of a Buffer tank for Condensate collection and Debris removal from Gas.</li>
+                <li>Installation and Commissioning of a 1000SCMH PRMS for CNG utilization.</li>
+                <li>Training of Operational Staff on practical operation of CNG, Safe handling of CNG and General Handling of The CNG truck.</li>
+              </ul>
               </p>
             </div>
           </div><!-- End Service Item -->
